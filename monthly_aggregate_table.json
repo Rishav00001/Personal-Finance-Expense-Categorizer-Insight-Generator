@@ -1,0 +1,116 @@
+{
+  "monthly_total_spend": {
+    "2025-01": 309429.97,
+    "2025-02": 170022.4,
+    "2025-03": 398542.52,
+    "2025-04": 196182.03,
+    "2025-05": 229962.38,
+    "2025-06": 186081.0
+  },
+  "monthly_spend_by_category": {
+    "2025-01": {
+      "Bills & Utilities": 8029.06,
+      "Education": 46418.48,
+      "Entertainment": 7099.82,
+      "Food & Dining": 8058.02,
+      "Groceries": 6378.23,
+      "Healthcare": 17212.51,
+      "Income & Transfers": 172295.05,
+      "Rent & Housing": 13344.05,
+      "Shopping": 28002.55,
+      "Transport": 2592.2
+    },
+    "2025-02": {
+      "Bills & Utilities": 19072.92,
+      "Education": 24287.57,
+      "Entertainment": 0.0,
+      "Food & Dining": 8621.76,
+      "Groceries": 24781.25,
+      "Healthcare": 2919.82,
+      "Income & Transfers": 62244.13,
+      "Rent & Housing": 0.0,
+      "Shopping": 26599.78,
+      "Transport": 1495.17
+    },
+    "2025-03": {
+      "Bills & Utilities": 18074.33,
+      "Education": 34860.98,
+      "Entertainment": 2770.64,
+      "Food & Dining": 2729.15,
+      "Groceries": 21852.17,
+      "Healthcare": 11116.91,
+      "Income & Transfers": 185962.91,
+      "Rent & Housing": 17922.15,
+      "Shopping": 100521.17,
+      "Transport": 2732.11
+    },
+    "2025-04": {
+      "Bills & Utilities": 9731.25,
+      "Education": 38427.77,
+      "Entertainment": 7817.98,
+      "Food & Dining": 6514.5,
+      "Groceries": 18467.79,
+      "Healthcare": 13315.58,
+      "Income & Transfers": 46169.74,
+      "Rent & Housing": 16698.52,
+      "Shopping": 37633.69,
+      "Transport": 1405.21
+    },
+    "2025-05": {
+      "Bills & Utilities": 8665.74,
+      "Education": 21354.48,
+      "Entertainment": 6522.73,
+      "Food & Dining": 4693.32,
+      "Groceries": 14679.18,
+      "Healthcare": 13925.47,
+      "Income & Transfers": 79001.48,
+      "Rent & Housing": 32915.89,
+      "Shopping": 44732.59,
+      "Transport": 3471.5
+    },
+    "2025-06": {
+      "Bills & Utilities": 13455.92,
+      "Education": 21149.23,
+      "Entertainment": 6805.87,
+      "Food & Dining": 7290.19,
+      "Groceries": 16678.58,
+      "Healthcare": 1816.87,
+      "Income & Transfers": 39275.26,
+      "Rent & Housing": 45309.73,
+      "Shopping": 30482.3,
+      "Transport": 3817.05
+    }
+  },
+  "top_merchants_by_month": {
+    "2025-01": {
+      "IMPS-TO-MOM-3927": 59146.2,
+      "IMPS-TO-MOM-4295": 53963.97,
+      "UPI-SPLITWISE-SETTLE-3060@okaxis": 53884.34
+    },
+    "2025-02": {
+      "IMPS-TO-MOM-4872": 54837.81,
+      "UPI-BYJUS-2612@okaxis": 14472.49,
+      "POS 1140 UDEMY ONLINE": 9815.08
+    },
+    "2025-03": {
+      "NEFT-FREELANCE-PAYMENT-3442": 61125.04,
+      "NEFT-TRANSFER-9785": 53523.02,
+      "IMPS-TO-MOM-3900": 45809.88
+    },
+    "2025-04": {
+      "UPI-SPLITWISE-SETTLE-9751@okaxis": 38932.08,
+      "UPI-TUITIONFEE-2729@ybl": 22680.68,
+      "NEFT-RENT-LANDLORD-7232": 16698.52
+    },
+    "2025-05": {
+      "UPI-SPLITWISE-SETTLE-5377@okaxis": 52483.79,
+      "IMPS-MAINTENANCE-SOC-8025": 22546.84,
+      "UPI-SPLITWISE-SETTLE-3236@okaxis": 14361.09
+    },
+    "2025-06": {
+      "NEFT-RENT-LANDLORD-6061": 21511.76,
+      "IMPS-TO-MOM-8916": 20841.39,
+      "IMPS-MAINTENANCE-SOC-1992": 15689.41
+    }
+  }
+}

@@ -1,5 +1,4 @@
-# Personal-Finance-Expense-Categorizer-Insight-Generator
-
+# Personal Finance Expense Categorizer & Insight Generator
 
 ## Problem Statement
 A budgeting app ingests raw bank-transaction descriptions (often cryptic
